@@ -1,5 +1,5 @@
 # portfolio-website
-My portfolio website
+My portfolio website created with React 
 
 This is a portfolio web app to showcase my personal developer experience in a brief and convenient layout. Originally as a way to reinforce my skills in React, I have also learned a lot about optimizing website development, such as using tailwind to help with the styling and lazy loading to improve the speed of animations. 
 
