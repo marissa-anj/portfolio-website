@@ -38,9 +38,7 @@ const SocialLinksData = [
         Resume <BsFillPersonLinesFill size={30} />
       </>
     ),
-    href: '/resume.pdf',
-    style: 'rounded-br-md',
-    download: true,
+    href: 'https://drive.google.com/file/d/1RCCdaufowIIN6YYZyfBSIX8IPxGyWugf/view',
   },
 ];
 

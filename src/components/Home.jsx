@@ -18,18 +18,12 @@ const Home = () => {
             Marissa Angeles
           </h3>
           <p className='text-gray-300 py-4 max-w-md'>
-            I'm a 4th year computer science student concentrating in Big Data
-            Systems and working toward a full time developer position.
+          Hi there 👋! I am an Honours graduate in Computer Science with a concentration in Big Data Systems. 
+
           </p>
           <p className='text-gray-300 py-4 max-w-md'>
             {' '}
-            During my studies, I have worked as a developer that has had the
-            priviledge of working with enterprise level clients. With experience
-            as a database developer, data analyst, and web developer, I've grown
-            to love specializing in the development, delivery and performance of
-            data-driven solutions. I have also created and launched websites,
-            and I am currently learning about AWS. In my free time you can find
-            me cafe-hopping. I also love to draw!
+            Throughout my academic career, I have had the privilege of working with enterprise-level clients, which has allowed me to gain experience as a database developer, data analyst, and web developer. I am passionate about specializing in the development, delivery, and performance of data-driven solutions. My background includes creating and launching websites, and I am currently expanding my skills by learning about AWS and tinkering with TensorFlow. In my free time you can find me cafe-hopping. I also love to draw!
           </p>
 
           <div>

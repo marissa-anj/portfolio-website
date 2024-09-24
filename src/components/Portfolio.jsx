@@ -72,15 +72,7 @@ const Portfolio = () => {
                         {description}
                       </p>
                       <div className='w-full h-full flex justify-center items-center mt-4'>
-                        {demo && (
-                          <a
-                            href={demo}
-                            target='_blank'
-                            rel='noreferrer'
-                            className='px-2 md:px-4 text-xl font-bold py-1 text-white-700 bg-green-700 rounded-lg'>
-                            Demo
-                          </a>
-                        )}
+                      
                       </div>
                     </div>
 

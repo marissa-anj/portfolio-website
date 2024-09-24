@@ -38,7 +38,7 @@ const WorkExperience = () => {
                     src={element.icon}
                     alt={element.company}
                     loading='lazy'
-                    className='w-full h-full object-contain rounded-sm'
+                    className='w-full h-full object-contain rounded-full'
                   />
                 </div>
               }>
